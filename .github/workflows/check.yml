@@ -1,0 +1,40 @@
+name: Check and package
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: npm ci
+      - run: npm test
+      - name: Fetch pinned AIUI skill
+        run: |
+          git clone https://github.com/BreezeLife/rokid-aiui-agent-skill.git "$RUNNER_TEMP/rokid-aiui-agent-skill"
+          git -C "$RUNNER_TEMP/rokid-aiui-agent-skill" checkout 9cf54c1802fe978cc025d3f79d4ece45d0add773
+      - name: Strict structure and conservative audit
+        run: |
+          set +e
+          SKILL_ROOT="$RUNNER_TEMP/rokid-aiui-agent-skill/skills/rokid-aiui-agent" npm run audit
+          audit_status=$?
+          if [ "$audit_status" -ne 0 ] && [ "$audit_status" -ne 2 ]; then exit "$audit_status"; fi
+      - name: Pack and inspect AIX
+        run: PEAKNOW_OUTPUT="$RUNNER_TEMP/peaknow-output" npm run pack
+      - uses: actions/upload-artifact@v4
+        with:
+          name: peaknow-aiui-0.17.0
+          path: |
+            ${{ runner.temp }}/peaknow-output/peaknow.aix
+            ${{ runner.temp }}/peaknow-output/peaknow.aix.sha256
+            ${{ runner.temp }}/peaknow-output/list.txt
+            .aiui-evidence/AIUI-AUDIT.md

@@ -1,0 +1,2112 @@
+{
+  "claimedCapabilities": [
+    "event.bindtap@event-bindtap-00a5474e32c4",
+    "event.bindtap@event-bindtap-08db8e800418",
+    "event.bindtap@event-bindtap-1499f333708c",
+    "event.bindtap@event-bindtap-14f3d46d61f3",
+    "event.bindtap@event-bindtap-1d722d38ee96",
+    "event.bindtap@event-bindtap-1e753247a06a",
+    "event.bindtap@event-bindtap-3100f0933183",
+    "event.bindtap@event-bindtap-5bc2d92dfc19",
+    "event.bindtap@event-bindtap-5c677d60820e",
+    "event.bindtap@event-bindtap-612bfeeeca28",
+    "event.bindtap@event-bindtap-769e1fb83fd6",
+    "event.bindtap@event-bindtap-8e2b33382185",
+    "event.bindtap@event-bindtap-92da584187fb",
+    "event.bindtap@event-bindtap-b2b85023c40f",
+    "event.bindtap@event-bindtap-b9d9ee8df1ee",
+    "event.bindtap@event-bindtap-bf65c275c94d",
+    "event.bindtap@event-bindtap-d3ce08ff6c14",
+    "event.bindtap@event-bindtap-d569e12c794c",
+    "event.bindtap@event-bindtap-e1bfd38230e1",
+    "focus.element@focus-element-076a7f9f15e4",
+    "focus.element@focus-element-2b8040dde9b1",
+    "focus.element@focus-element-2f3653720c90",
+    "focus.element@focus-element-3d0829d05bdf",
+    "focus.element@focus-element-552b1e42c090",
+    "focus.element@focus-element-56e0ee671f23",
+    "focus.element@focus-element-7a1cda2f9e6a",
+    "focus.element@focus-element-7f2db72586cc",
+    "focus.element@focus-element-864beb82f6c7",
+    "focus.element@focus-element-867b14370e63",
+    "focus.element@focus-element-bb649246d65c",
+    "focus.element@focus-element-c2051398d055",
+    "focus.element@focus-element-d73c0d0d017d",
+    "focus.element@focus-element-d9af78e715b9",
+    "focus.element@focus-element-e143891e3101",
+    "focus.element@focus-element-e5936c0a1fae",
+    "focus.element@focus-element-f1bb57f9766e",
+    "focus.element@focus-element-f2fb9af50cb4",
+    "focus.host@focus-host-407363a84a92",
+    "focus.host@focus-host-b9c05dc9de93",
+    "input.back@input-back-220c94a39157",
+    "input.enter@input-enter-cb804dbc44c0",
+    "input.scroll.host@input-scroll-host-510bb183a9b7",
+    "input.scroll.host@input-scroll-host-97aa42820cd2",
+    "input.scroll.host@input-scroll-host-fbbad935b180",
+    "network.https@network-https-dcdb5f1d372b",
+    "page.lifecycle@page-lifecycle-17b11be947a1",
+    "page.lifecycle@page-lifecycle-6b86295cca9b",
+    "page.lifecycle@page-lifecycle-86a63665ca32",
+    "page.lifecycle@page-lifecycle-95dc2bfa1273",
+    "page.route@page-route-77257a35d9d3",
+    "page.target@page-target-128f0bcaebf5",
+    "page.target@page-target-8d71297a67f9",
+    "project.unregistered@unregistered-00b1cc8c5748",
+    "project.unregistered@unregistered-1f300abd9f77",
+    "project.unregistered@unregistered-1fb41a1dd5b3",
+    "project.unregistered@unregistered-280500787fc4",
+    "project.unregistered@unregistered-3af6c9fd36d2",
+    "project.unregistered@unregistered-42dd8e8df091",
+    "project.unregistered@unregistered-494d80b9bf39",
+    "project.unregistered@unregistered-4c42a412d43c",
+    "project.unregistered@unregistered-4e571be8e228",
+    "project.unregistered@unregistered-65a3d5bdf7b7",
+    "project.unregistered@unregistered-6ae4822737d6",
+    "project.unregistered@unregistered-74644c3f4b60",
+    "project.unregistered@unregistered-7533fa513e0d",
+    "project.unregistered@unregistered-7e221bb26654",
+    "project.unregistered@unregistered-82e786084344",
+    "project.unregistered@unregistered-878db78c2541",
+    "project.unregistered@unregistered-883947ae417e",
+    "project.unregistered@unregistered-8b1c84887006",
+    "project.unregistered@unregistered-9741bca2c5b8",
+    "project.unregistered@unregistered-a722cc2dd670",
+    "project.unregistered@unregistered-b43672001bca",
+    "project.unregistered@unregistered-b82dacb394d4",
+    "project.unregistered@unregistered-bc7cb1dcb279",
+    "project.unregistered@unregistered-bdc37a6f4ccc",
+    "project.unregistered@unregistered-c4cf1e83d31d",
+    "project.unregistered@unregistered-e2f2ab7e3098",
+    "project.unregistered@unregistered-e463761c345f",
+    "project.unregistered@unregistered-e6ae1f5b9bdf",
+    "project.unregistered@unregistered-e6eb1b0eddfb",
+    "project.unregistered@unregistered-eb1246dc1e05",
+    "project.unregistered@unregistered-f1246c8076ec",
+    "ui.button@ui-button-0157e118bd32",
+    "ui.button@ui-button-09bcd63e4b0d",
+    "ui.button@ui-button-0a32ca138dec",
+    "ui.button@ui-button-193769f122d1",
+    "ui.button@ui-button-28a3dc058118",
+    "ui.button@ui-button-2f5266f26279",
+    "ui.button@ui-button-4a7d206595d6",
+    "ui.button@ui-button-544410dbbd7d",
+    "ui.button@ui-button-812f159f627a",
+    "ui.button@ui-button-8232248ae804",
+    "ui.button@ui-button-8720ae6bf5dc",
+    "ui.button@ui-button-8fee65951420",
+    "ui.button@ui-button-95e2d9f67873",
+    "ui.button@ui-button-a3701b850f45",
+    "ui.button@ui-button-d2864b56177a",
+    "ui.button@ui-button-d3e8d8a24521",
+    "ui.button@ui-button-d510f3dbafdf",
+    "ui.button@ui-button-d80178501bde"
+  ],
+  "claimsLedger": {
+    "claimCount": 4,
+    "path": "aiui-audit-claims.json",
+    "present": true,
+    "scopeClosed": true,
+    "sha256": "129905bfc07a04d7895770f954b8e81b1df7a8bc110fc47501581437ca6d3139"
+  },
+  "inputGates": [
+    {
+      "family": "input.back",
+      "gate": "input-back-220c94a39157",
+      "kind": "back"
+    },
+    {
+      "family": "input.scroll.host",
+      "gate": "input-scroll-host-510bb183a9b7",
+      "kind": "directional-scroll"
+    },
+    {
+      "family": "input.scroll.host",
+      "gate": "input-scroll-host-97aa42820cd2",
+      "kind": "directional-scroll"
+    },
+    {
+      "family": "input.scroll.host",
+      "gate": "input-scroll-host-fbbad935b180",
+      "kind": "directional-scroll"
+    },
+    {
+      "family": "input.enter",
+      "gate": "input-enter-cb804dbc44c0",
+      "kind": "enter"
+    },
+    {
+      "family": "event.bindtap",
+      "gate": "event-bindtap-00a5474e32c4",
+      "kind": "tap"
+    },
+    {
+      "family": "event.bindtap",
+      "gate": "event-bindtap-08db8e800418",
+      "kind": "tap"
+    },
+    {
+      "family": "event.bindtap",
+      "gate": "event-bindtap-1499f333708c",
+      "kind": "tap"
+    },
+    {
+      "family": "event.bindtap",
+      "gate": "event-bindtap-14f3d46d61f3",
+      "kind": "tap"
+    },
+    {
+      "family": "event.bindtap",
+      "gate": "event-bindtap-1d722d38ee96",
+      "kind": "tap"
+    },
+    {
+      "family": "event.bindtap",
+      "gate": "event-bindtap-1e753247a06a",
+      "kind": "tap"
+    },
+    {
+      "family": "event.bindtap",
+      "gate": "event-bindtap-3100f0933183",
+      "kind": "tap"
+    },
+    {
+      "family": "event.bindtap",
+      "gate": "event-bindtap-5bc2d92dfc19",
+      "kind": "tap"
+    },
+    {
+      "family": "event.bindtap",
+      "gate": "event-bindtap-5c677d60820e",
+      "kind": "tap"
+    },
+    {
+      "family": "event.bindtap",
+      "gate": "event-bindtap-612bfeeeca28",
+      "kind": "tap"
+    },
+    {
+      "family": "event.bindtap",
+      "gate": "event-bindtap-769e1fb83fd6",
+      "kind": "tap"
+    },
+    {
+      "family": "event.bindtap",
+      "gate": "event-bindtap-8e2b33382185",
+      "kind": "tap"
+    },
+    {
+      "family": "event.bindtap",
+      "gate": "event-bindtap-92da584187fb",
+      "kind": "tap"
+    },
+    {
+      "family": "event.bindtap",
+      "gate": "event-bindtap-b2b85023c40f",
+      "kind": "tap"
+    },
+    {
+      "family": "event.bindtap",
+      "gate": "event-bindtap-b9d9ee8df1ee",
+      "kind": "tap"
+    },
+    {
+      "family": "event.bindtap",
+      "gate": "event-bindtap-bf65c275c94d",
+      "kind": "tap"
+    },
+    {
+      "family": "event.bindtap",
+      "gate": "event-bindtap-d3ce08ff6c14",
+      "kind": "tap"
+    },
+    {
+      "family": "event.bindtap",
+      "gate": "event-bindtap-d569e12c794c",
+      "kind": "tap"
+    },
+    {
+      "family": "event.bindtap",
+      "gate": "event-bindtap-e1bfd38230e1",
+      "kind": "tap"
+    }
+  ],
+  "items": [
+    {
+      "apiBinding": "bindtap=action",
+      "declarationBinding": "NONE REQUIRED",
+      "family": "event.bindtap",
+      "gate": "event-bindtap-00a5474e32c4",
+      "locations": [
+        {
+          "column": 117,
+          "line": 338,
+          "path": "pages/index/index.ink"
+        }
+      ],
+      "mechanism": "bindtap=action",
+      "policyState": "registered",
+      "versionFeature": "stable-0.17"
+    },
+    {
+      "apiBinding": "bindtap=action",
+      "declarationBinding": "NONE REQUIRED",
+      "family": "event.bindtap",
+      "gate": "event-bindtap-08db8e800418",
+      "locations": [
+        {
+          "column": 144,
+          "line": 381,
+          "path": "pages/index/index.ink"
+        }
+      ],
+      "mechanism": "bindtap=action",
+      "policyState": "registered",
+      "versionFeature": "stable-0.17"
+    },
+    {
+      "apiBinding": "bindtap=action",
+      "declarationBinding": "NONE REQUIRED",
+      "family": "event.bindtap",
+      "gate": "event-bindtap-1499f333708c",
+      "locations": [
+        {
+          "column": 118,
+          "line": 363,
+          "path": "pages/index/index.ink"
+        }
+      ],
+      "mechanism": "bindtap=action",
+      "policyState": "registered",
+      "versionFeature": "stable-0.17"
+    },
+    {
+      "apiBinding": "bindtap=action",
+      "declarationBinding": "NONE REQUIRED",
+      "family": "event.bindtap",
+      "gate": "event-bindtap-14f3d46d61f3",
+      "locations": [
+        {
+          "column": 150,
+          "line": 325,
+          "path": "pages/index/index.ink"
+        }
+      ],
+      "mechanism": "bindtap=action",
+      "policyState": "registered",
+      "versionFeature": "stable-0.17"
+    },
+    {
+      "apiBinding": "bindtap=action",
+      "declarationBinding": "NONE REQUIRED",
+      "family": "event.bindtap",
+      "gate": "event-bindtap-1d722d38ee96",
+      "locations": [
+        {
+          "column": 144,
+          "line": 377,
+          "path": "pages/index/index.ink"
+        }
+      ],
+      "mechanism": "bindtap=action",
+      "policyState": "registered",
+      "versionFeature": "stable-0.17"
+    },
+    {
+      "apiBinding": "bindtap=start",
+      "declarationBinding": "NONE REQUIRED",
+      "family": "event.bindtap",
+      "gate": "event-bindtap-1e753247a06a",
+      "locations": [
+        {
+          "column": 27,
+          "line": 326,
+          "path": "pages/index/index.ink"
+        }
+      ],
+      "mechanism": "bindtap=start",
+      "policyState": "registered",
+      "versionFeature": "stable-0.17"
+    },
+    {
+      "apiBinding": "bindtap=action",
+      "declarationBinding": "NONE REQUIRED",
+      "family": "event.bindtap",
+      "gate": "event-bindtap-3100f0933183",
+      "locations": [
+        {
+          "column": 144,
+          "line": 378,
+          "path": "pages/index/index.ink"
+        }
+      ],
+      "mechanism": "bindtap=action",
+      "policyState": "registered",
+      "versionFeature": "stable-0.17"
+    },
+    {
+      "apiBinding": "bindtap=action",
+      "declarationBinding": "NONE REQUIRED",
+      "family": "event.bindtap",
+      "gate": "event-bindtap-5bc2d92dfc19",
+      "locations": [
+        {
+          "column": 114,
+          "line": 339,
+          "path": "pages/index/index.ink"
+        }
+      ],
+      "mechanism": "bindtap=action",
+      "policyState": "registered",
+      "versionFeature": "stable-0.17"
+    },
+    {
+      "apiBinding": "bindtap=action",
+      "declarationBinding": "NONE REQUIRED",
+      "family": "event.bindtap",
+      "gate": "event-bindtap-5c677d60820e",
+      "locations": [
+        {
+          "column": 144,
+          "line": 380,
+          "path": "pages/index/index.ink"
+        }
+      ],
+      "mechanism": "bindtap=action",
+      "policyState": "registered",
+      "versionFeature": "stable-0.17"
+    },
+    {
+      "apiBinding": "bindtap=action",
+      "declarationBinding": "NONE REQUIRED",
+      "family": "event.bindtap",
+      "gate": "event-bindtap-612bfeeeca28",
+      "locations": [
+        {
+          "column": 138,
+          "line": 352,
+          "path": "pages/index/index.ink"
+        }
+      ],
+      "mechanism": "bindtap=action",
+      "policyState": "registered",
+      "versionFeature": "stable-0.17"
+    },
+    {
+      "apiBinding": "bindtap=action",
+      "declarationBinding": "NONE REQUIRED",
+      "family": "event.bindtap",
+      "gate": "event-bindtap-769e1fb83fd6",
+      "locations": [
+        {
+          "column": 144,
+          "line": 379,
+          "path": "pages/index/index.ink"
+        }
+      ],
+      "mechanism": "bindtap=action",
+      "policyState": "registered",
+      "versionFeature": "stable-0.17"
+    },
+    {
+      "apiBinding": "bindtap=action",
+      "declarationBinding": "NONE REQUIRED",
+      "family": "event.bindtap",
+      "gate": "event-bindtap-8e2b33382185",
+      "locations": [
+        {
+          "column": 79,
+          "line": 329,
+          "path": "pages/index/index.ink"
+        }
+      ],
+      "mechanism": "bindtap=action",
+      "policyState": "registered",
+      "versionFeature": "stable-0.17"
+    },
+    {
+      "apiBinding": "bindtap=action",
+      "declarationBinding": "NONE REQUIRED",
+      "family": "event.bindtap",
+      "gate": "event-bindtap-92da584187fb",
+      "locations": [
+        {
+          "column": 138,
+          "line": 358,
+          "path": "pages/index/index.ink"
+        }
+      ],
+      "mechanism": "bindtap=action",
+      "policyState": "registered",
+      "versionFeature": "stable-0.17"
+    },
+    {
+      "apiBinding": "bindtap=action",
+      "declarationBinding": "NONE REQUIRED",
+      "family": "event.bindtap",
+      "gate": "event-bindtap-b2b85023c40f",
+      "locations": [
+        {
+          "column": 304,
+          "line": 363,
+          "path": "pages/index/index.ink"
+        }
+      ],
+      "mechanism": "bindtap=action",
+      "policyState": "registered",
+      "versionFeature": "stable-0.17"
+    },
+    {
+      "apiBinding": "bindtap=action",
+      "declarationBinding": "NONE REQUIRED",
+      "family": "event.bindtap",
+      "gate": "event-bindtap-b9d9ee8df1ee",
+      "locations": [
+        {
+          "column": 138,
+          "line": 355,
+          "path": "pages/index/index.ink"
+        }
+      ],
+      "mechanism": "bindtap=action",
+      "policyState": "registered",
+      "versionFeature": "stable-0.17"
+    },
+    {
+      "apiBinding": "bindtap=action",
+      "declarationBinding": "NONE REQUIRED",
+      "family": "event.bindtap",
+      "gate": "event-bindtap-bf65c275c94d",
+      "locations": [
+        {
+          "column": 443,
+          "line": 363,
+          "path": "pages/index/index.ink"
+        }
+      ],
+      "mechanism": "bindtap=action",
+      "policyState": "registered",
+      "versionFeature": "stable-0.17"
+    },
+    {
+      "apiBinding": "bindtap=action",
+      "declarationBinding": "NONE REQUIRED",
+      "family": "event.bindtap",
+      "gate": "event-bindtap-d3ce08ff6c14",
+      "locations": [
+        {
+          "column": 144,
+          "line": 382,
+          "path": "pages/index/index.ink"
+        }
+      ],
+      "mechanism": "bindtap=action",
+      "policyState": "registered",
+      "versionFeature": "stable-0.17"
+    },
+    {
+      "apiBinding": "bindtap=action",
+      "declarationBinding": "NONE REQUIRED",
+      "family": "event.bindtap",
+      "gate": "event-bindtap-d569e12c794c",
+      "locations": [
+        {
+          "column": 114,
+          "line": 340,
+          "path": "pages/index/index.ink"
+        }
+      ],
+      "mechanism": "bindtap=action",
+      "policyState": "registered",
+      "versionFeature": "stable-0.17"
+    },
+    {
+      "apiBinding": "bindtap=action",
+      "declarationBinding": "NONE REQUIRED",
+      "family": "event.bindtap",
+      "gate": "event-bindtap-e1bfd38230e1",
+      "locations": [
+        {
+          "column": 180,
+          "line": 336,
+          "path": "pages/index/index.ink"
+        }
+      ],
+      "mechanism": "bindtap=action",
+      "policyState": "registered",
+      "versionFeature": "stable-0.17"
+    },
+    {
+      "apiBinding": "bindfocus=focusAction",
+      "declarationBinding": "NONE REQUIRED",
+      "family": "focus.element",
+      "gate": "focus-element-076a7f9f15e4",
+      "locations": [
+        {
+          "column": 197,
+          "line": 336,
+          "path": "pages/index/index.ink"
+        }
+      ],
+      "mechanism": "bindfocus=focusAction",
+      "policyState": "registered",
+      "versionFeature": "stable-0.17"
+    },
+    {
+      "apiBinding": "bindfocus=focusAction",
+      "declarationBinding": "NONE REQUIRED",
+      "family": "focus.element",
+      "gate": "focus-element-2b8040dde9b1",
+      "locations": [
+        {
+          "column": 460,
+          "line": 363,
+          "path": "pages/index/index.ink"
+        }
+      ],
+      "mechanism": "bindfocus=focusAction",
+      "policyState": "registered",
+      "versionFeature": "stable-0.17"
+    },
+    {
+      "apiBinding": "bindfocus=focusAction",
+      "declarationBinding": "NONE REQUIRED",
+      "family": "focus.element",
+      "gate": "focus-element-2f3653720c90",
+      "locations": [
+        {
+          "column": 155,
+          "line": 352,
+          "path": "pages/index/index.ink"
+        }
+      ],
+      "mechanism": "bindfocus=focusAction",
+      "policyState": "registered",
+      "versionFeature": "stable-0.17"
+    },
+    {
+      "apiBinding": "bindfocus=focusAction",
+      "declarationBinding": "NONE REQUIRED",
+      "family": "focus.element",
+      "gate": "focus-element-3d0829d05bdf",
+      "locations": [
+        {
+          "column": 134,
+          "line": 338,
+          "path": "pages/index/index.ink"
+        }
+      ],
+      "mechanism": "bindfocus=focusAction",
+      "policyState": "registered",
+      "versionFeature": "stable-0.17"
+    },
+    {
+      "apiBinding": "bindfocus=focusAction",
+      "declarationBinding": "NONE REQUIRED",
+      "family": "focus.element",
+      "gate": "focus-element-552b1e42c090",
+      "locations": [
+        {
+          "column": 161,
+          "line": 377,
+          "path": "pages/index/index.ink"
+        }
+      ],
+      "mechanism": "bindfocus=focusAction",
+      "policyState": "registered",
+      "versionFeature": "stable-0.17"
+    },
+    {
+      "apiBinding": "bindfocus=focusAction",
+      "declarationBinding": "NONE REQUIRED",
+      "family": "focus.element",
+      "gate": "focus-element-56e0ee671f23",
+      "locations": [
+        {
+          "column": 131,
+          "line": 339,
+          "path": "pages/index/index.ink"
+        }
+      ],
+      "mechanism": "bindfocus=focusAction",
+      "policyState": "registered",
+      "versionFeature": "stable-0.17"
+    },
+    {
+      "apiBinding": "bindfocus=focusAction",
+      "declarationBinding": "NONE REQUIRED",
+      "family": "focus.element",
+      "gate": "focus-element-7a1cda2f9e6a",
+      "locations": [
+        {
+          "column": 161,
+          "line": 380,
+          "path": "pages/index/index.ink"
+        }
+      ],
+      "mechanism": "bindfocus=focusAction",
+      "policyState": "registered",
+      "versionFeature": "stable-0.17"
+    },
+    {
+      "apiBinding": "bindfocus=focusAction",
+      "declarationBinding": "NONE REQUIRED",
+      "family": "focus.element",
+      "gate": "focus-element-7f2db72586cc",
+      "locations": [
+        {
+          "column": 161,
+          "line": 382,
+          "path": "pages/index/index.ink"
+        }
+      ],
+      "mechanism": "bindfocus=focusAction",
+      "policyState": "registered",
+      "versionFeature": "stable-0.17"
+    },
+    {
+      "apiBinding": "bindfocus=focusAction",
+      "declarationBinding": "NONE REQUIRED",
+      "family": "focus.element",
+      "gate": "focus-element-864beb82f6c7",
+      "locations": [
+        {
+          "column": 155,
+          "line": 358,
+          "path": "pages/index/index.ink"
+        }
+      ],
+      "mechanism": "bindfocus=focusAction",
+      "policyState": "registered",
+      "versionFeature": "stable-0.17"
+    },
+    {
+      "apiBinding": "bindfocus=focusAction",
+      "declarationBinding": "NONE REQUIRED",
+      "family": "focus.element",
+      "gate": "focus-element-867b14370e63",
+      "locations": [
+        {
+          "column": 96,
+          "line": 329,
+          "path": "pages/index/index.ink"
+        }
+      ],
+      "mechanism": "bindfocus=focusAction",
+      "policyState": "registered",
+      "versionFeature": "stable-0.17"
+    },
+    {
+      "apiBinding": "bindfocus=focusAction",
+      "declarationBinding": "NONE REQUIRED",
+      "family": "focus.element",
+      "gate": "focus-element-bb649246d65c",
+      "locations": [
+        {
+          "column": 167,
+          "line": 325,
+          "path": "pages/index/index.ink"
+        }
+      ],
+      "mechanism": "bindfocus=focusAction",
+      "policyState": "registered",
+      "versionFeature": "stable-0.17"
+    },
+    {
+      "apiBinding": "bindfocus=focusAction",
+      "declarationBinding": "NONE REQUIRED",
+      "family": "focus.element",
+      "gate": "focus-element-c2051398d055",
+      "locations": [
+        {
+          "column": 161,
+          "line": 381,
+          "path": "pages/index/index.ink"
+        }
+      ],
+      "mechanism": "bindfocus=focusAction",
+      "policyState": "registered",
+      "versionFeature": "stable-0.17"
+    },
+    {
+      "apiBinding": "bindfocus=focusAction",
+      "declarationBinding": "NONE REQUIRED",
+      "family": "focus.element",
+      "gate": "focus-element-d73c0d0d017d",
+      "locations": [
+        {
+          "column": 161,
+          "line": 378,
+          "path": "pages/index/index.ink"
+        }
+      ],
+      "mechanism": "bindfocus=focusAction",
+      "policyState": "registered",
+      "versionFeature": "stable-0.17"
+    },
+    {
+      "apiBinding": "bindfocus=focusAction",
+      "declarationBinding": "NONE REQUIRED",
+      "family": "focus.element",
+      "gate": "focus-element-d9af78e715b9",
+      "locations": [
+        {
+          "column": 131,
+          "line": 340,
+          "path": "pages/index/index.ink"
+        }
+      ],
+      "mechanism": "bindfocus=focusAction",
+      "policyState": "registered",
+      "versionFeature": "stable-0.17"
+    },
+    {
+      "apiBinding": "bindfocus=focusAction",
+      "declarationBinding": "NONE REQUIRED",
+      "family": "focus.element",
+      "gate": "focus-element-e143891e3101",
+      "locations": [
+        {
+          "column": 161,
+          "line": 379,
+          "path": "pages/index/index.ink"
+        }
+      ],
+      "mechanism": "bindfocus=focusAction",
+      "policyState": "registered",
+      "versionFeature": "stable-0.17"
+    },
+    {
+      "apiBinding": "bindfocus=focusAction",
+      "declarationBinding": "NONE REQUIRED",
+      "family": "focus.element",
+      "gate": "focus-element-e5936c0a1fae",
+      "locations": [
+        {
+          "column": 321,
+          "line": 363,
+          "path": "pages/index/index.ink"
+        }
+      ],
+      "mechanism": "bindfocus=focusAction",
+      "policyState": "registered",
+      "versionFeature": "stable-0.17"
+    },
+    {
+      "apiBinding": "bindfocus=focusAction",
+      "declarationBinding": "NONE REQUIRED",
+      "family": "focus.element",
+      "gate": "focus-element-f1bb57f9766e",
+      "locations": [
+        {
+          "column": 155,
+          "line": 355,
+          "path": "pages/index/index.ink"
+        }
+      ],
+      "mechanism": "bindfocus=focusAction",
+      "policyState": "registered",
+      "versionFeature": "stable-0.17"
+    },
+    {
+      "apiBinding": "bindfocus=focusAction",
+      "declarationBinding": "NONE REQUIRED",
+      "family": "focus.element",
+      "gate": "focus-element-f2fb9af50cb4",
+      "locations": [
+        {
+          "column": 135,
+          "line": 363,
+          "path": "pages/index/index.ink"
+        }
+      ],
+      "mechanism": "bindfocus=focusAction",
+      "policyState": "registered",
+      "versionFeature": "stable-0.17"
+    },
+    {
+      "apiBinding": "onHostFocus()",
+      "declarationBinding": "NONE REQUIRED",
+      "family": "focus.host",
+      "gate": "focus-host-407363a84a92",
+      "locations": [
+        {
+          "column": 3,
+          "line": 69,
+          "path": "pages/index/index.ink"
+        }
+      ],
+      "mechanism": "onHostFocus",
+      "policyState": "registered",
+      "versionFeature": "stable-0.17"
+    },
+    {
+      "apiBinding": "onHostBlur()",
+      "declarationBinding": "NONE REQUIRED",
+      "family": "focus.host",
+      "gate": "focus-host-b9c05dc9de93",
+      "locations": [
+        {
+          "column": 3,
+          "line": 70,
+          "path": "pages/index/index.ink"
+        }
+      ],
+      "mechanism": "onHostBlur",
+      "policyState": "registered",
+      "versionFeature": "stable-0.17"
+    },
+    {
+      "apiBinding": "onKeyUp(event.code=Backspace)",
+      "declarationBinding": "NONE REQUIRED",
+      "family": "input.back",
+      "gate": "input-back-220c94a39157",
+      "locations": [
+        {
+          "column": 9,
+          "line": 259,
+          "path": "pages/index/index.ink"
+        }
+      ],
+      "mechanism": "onKeyUp(event.code=Backspace)",
+      "policyState": "registered",
+      "versionFeature": "stable-0.17"
+    },
+    {
+      "apiBinding": "onKeyUp(event.code=Enter)",
+      "declarationBinding": "NONE REQUIRED",
+      "family": "input.enter",
+      "gate": "input-enter-cb804dbc44c0",
+      "locations": [
+        {
+          "column": 9,
+          "line": 267,
+          "path": "pages/index/index.ink"
+        }
+      ],
+      "mechanism": "onKeyUp(event.code=Enter)",
+      "policyState": "registered",
+      "versionFeature": "stable-0.17"
+    },
+    {
+      "apiBinding": "onKeyUp(event.code=ArrowUp)",
+      "declarationBinding": "NONE REQUIRED",
+      "family": "input.scroll.host",
+      "gate": "input-scroll-host-510bb183a9b7",
+      "locations": [
+        {
+          "column": 9,
+          "line": 262,
+          "path": "pages/index/index.ink"
+        }
+      ],
+      "mechanism": "onKeyUp(event.code=ArrowUp)",
+      "policyState": "registered",
+      "versionFeature": "stable-0.17"
+    },
+    {
+      "apiBinding": "onKeyUp(event.code=ArrowDown)",
+      "declarationBinding": "NONE REQUIRED",
+      "family": "input.scroll.host",
+      "gate": "input-scroll-host-97aa42820cd2",
+      "locations": [
+        {
+          "column": 37,
+          "line": 262,
+          "path": "pages/index/index.ink"
+        }
+      ],
+      "mechanism": "onKeyUp(event.code=ArrowDown)",
+      "policyState": "registered",
+      "versionFeature": "stable-0.17"
+    },
+    {
+      "apiBinding": "onKeyUp(event.code=ArrowDown)",
+      "declarationBinding": "NONE REQUIRED",
+      "family": "input.scroll.host",
+      "gate": "input-scroll-host-fbbad935b180",
+      "locations": [
+        {
+          "column": 47,
+          "line": 265,
+          "path": "pages/index/index.ink"
+        }
+      ],
+      "mechanism": "onKeyUp(event.code=ArrowDown)",
+      "policyState": "registered",
+      "versionFeature": "stable-0.17"
+    },
+    {
+      "apiBinding": "PROJECT-BINDING:UNRESOLVED",
+      "declarationBinding": "PROJECT-BINDING:UNRESOLVED",
+      "family": "network.https",
+      "gate": "network-https-dcdb5f1d372b",
+      "locations": [
+        {
+          "column": 1,
+          "line": 1,
+          "path": "aiui-audit-claims.json"
+        }
+      ],
+      "mechanism": "CLAIM:network.https@Page:Query two Overpass HTTPS endpoints using the injected wx request adapter, with bounded attempts, timeout, cancellation, cached fallback and explicit recovery.",
+      "policyState": "binding-unresolved",
+      "versionFeature": "stable-0.17"
+    },
+    {
+      "apiBinding": "CALLBACK:onLoad",
+      "declarationBinding": "NONE REQUIRED",
+      "family": "page.lifecycle",
+      "gate": "page-lifecycle-17b11be947a1",
+      "locations": [
+        {
+          "column": 3,
+          "line": 47,
+          "path": "pages/index/index.ink"
+        }
+      ],
+      "mechanism": "CALLBACK:onLoad",
+      "policyState": "registered",
+      "versionFeature": "stable-0.17"
+    },
+    {
+      "apiBinding": "CALLBACK:onShow",
+      "declarationBinding": "NONE REQUIRED",
+      "family": "page.lifecycle",
+      "gate": "page-lifecycle-6b86295cca9b",
+      "locations": [
+        {
+          "column": 3,
+          "line": 66,
+          "path": "pages/index/index.ink"
+        }
+      ],
+      "mechanism": "CALLBACK:onShow",
+      "policyState": "registered",
+      "versionFeature": "stable-0.17"
+    },
+    {
+      "apiBinding": "CALLBACK:onUnload",
+      "declarationBinding": "NONE REQUIRED",
+      "family": "page.lifecycle",
+      "gate": "page-lifecycle-86a63665ca32",
+      "locations": [
+        {
+          "column": 3,
+          "line": 68,
+          "path": "pages/index/index.ink"
+        }
+      ],
+      "mechanism": "CALLBACK:onUnload",
+      "policyState": "registered",
+      "versionFeature": "stable-0.17"
+    },
+    {
+      "apiBinding": "CALLBACK:onHide",
+      "declarationBinding": "NONE REQUIRED",
+      "family": "page.lifecycle",
+      "gate": "page-lifecycle-95dc2bfa1273",
+      "locations": [
+        {
+          "column": 3,
+          "line": 67,
+          "path": "pages/index/index.ink"
+        }
+      ],
+      "mechanism": "CALLBACK:onHide",
+      "policyState": "registered",
+      "versionFeature": "stable-0.17"
+    },
+    {
+      "apiBinding": "app.json#pages:pages/index/index",
+      "declarationBinding": "pages",
+      "family": "page.route",
+      "gate": "page-route-77257a35d9d3",
+      "locations": [
+        {
+          "column": 1,
+          "line": 1,
+          "path": "app.json"
+        }
+      ],
+      "mechanism": "app.json#pages:pages/index/index",
+      "policyState": "registered",
+      "versionFeature": "stable-0.17"
+    },
+    {
+      "apiBinding": "target:_current",
+      "declarationBinding": "NONE REQUIRED",
+      "family": "page.target",
+      "gate": "page-target-128f0bcaebf5",
+      "locations": [
+        {
+          "column": 17,
+          "line": 436,
+          "path": "pages/index/index.ink"
+        }
+      ],
+      "mechanism": "target:_current",
+      "policyState": "registered",
+      "versionFeature": "stable-0.17"
+    },
+    {
+      "apiBinding": "target:_blank",
+      "declarationBinding": "NONE REQUIRED",
+      "family": "page.target",
+      "gate": "page-target-8d71297a67f9",
+      "locations": [
+        {
+          "column": 17,
+          "line": 435,
+          "path": "pages/index/index.ink"
+        }
+      ],
+      "mechanism": "target:_blank",
+      "policyState": "registered",
+      "versionFeature": "stable-0.17"
+    },
+    {
+      "apiBinding": "PROJECT-SYMBOL:media-cleanup-association",
+      "declarationBinding": "UNKNOWN — source policy not registered",
+      "family": "project.unregistered",
+      "gate": "unregistered-00b1cc8c5748",
+      "locations": [
+        {
+          "column": 27,
+          "line": 94,
+          "path": "pages/index/index.ink"
+        }
+      ],
+      "mechanism": "media-cleanup-association",
+      "policyState": "unregistered",
+      "versionFeature": "unresolved"
+    },
+    {
+      "apiBinding": "PROJECT-SYMBOL:bindinput=lonInput",
+      "declarationBinding": "UNKNOWN — source policy not registered",
+      "family": "project.unregistered",
+      "gate": "unregistered-1f300abd9f77",
+      "locations": [
+        {
+          "column": 352,
+          "line": 373,
+          "path": "pages/index/index.ink"
+        }
+      ],
+      "mechanism": "bindinput=lonInput",
+      "policyState": "unregistered",
+      "versionFeature": "unresolved"
+    },
+    {
+      "apiBinding": "PROJECT-SYMBOL:media-cleanup-association",
+      "declarationBinding": "UNKNOWN — source policy not registered",
+      "family": "project.unregistered",
+      "gate": "unregistered-1fb41a1dd5b3",
+      "locations": [
+        {
+          "column": 3,
+          "line": 48,
+          "path": "tests/runtime.test.js"
+        }
+      ],
+      "mechanism": "media-cleanup-association",
+      "policyState": "unregistered",
+      "versionFeature": "unresolved"
+    },
+    {
+      "apiBinding": "PROJECT-SYMBOL:clearInterval(...)",
+      "declarationBinding": "UNKNOWN — source policy not registered",
+      "family": "project.unregistered",
+      "gate": "unregistered-280500787fc4",
+      "locations": [
+        {
+          "column": 39,
+          "line": 111,
+          "path": "pages/index/index.ink"
+        }
+      ],
+      "mechanism": "clearInterval(...)",
+      "policyState": "unregistered",
+      "versionFeature": "unresolved"
+    },
+    {
+      "apiBinding": "PROJECT-SYMBOL:REFERENCE:navigator",
+      "declarationBinding": "UNKNOWN — source policy not registered",
+      "family": "project.unregistered",
+      "gate": "unregistered-3af6c9fd36d2",
+      "locations": [
+        {
+          "column": 43,
+          "line": 54,
+          "path": "pages/index/index.ink"
+        }
+      ],
+      "mechanism": "REFERENCE:navigator",
+      "policyState": "unregistered",
+      "versionFeature": "unresolved"
+    },
+    {
+      "apiBinding": "PROJECT-BINDING:UNRESOLVED",
+      "declarationBinding": "UNKNOWN — source policy not registered",
+      "family": "project.unregistered",
+      "gate": "unregistered-42dd8e8df091",
+      "locations": [
+        {
+          "column": 1,
+          "line": 2,
+          "path": "aiui-audit-claims.json"
+        }
+      ],
+      "mechanism": "CLAIM:device.geolocation@Page:Read companion-host GPS coordinates and moving course through an injected watchPosition adapter; clear watches and ignore stale or revoked delivery.",
+      "policyState": "unregistered",
+      "versionFeature": "unresolved"
+    },
+    {
+      "apiBinding": "PROJECT-SYMBOL:clearTimeout(...)",
+      "declarationBinding": "UNKNOWN — source policy not registered",
+      "family": "project.unregistered",
+      "gate": "unregistered-494d80b9bf39",
+      "locations": [
+        {
+          "column": 34,
+          "line": 71,
+          "path": "lib/runtime.js"
+        }
+      ],
+      "mechanism": "clearTimeout(...)",
+      "policyState": "unregistered",
+      "versionFeature": "unresolved"
+    },
+    {
+      "apiBinding": "PROJECT-SYMBOL:app.json#window.navigationBarTitleText=Peak Now",
+      "declarationBinding": "UNKNOWN — source policy not registered",
+      "family": "project.unregistered",
+      "gate": "unregistered-4c42a412d43c",
+      "locations": [
+        {
+          "column": 1,
+          "line": 1,
+          "path": "app.json"
+        }
+      ],
+      "mechanism": "app.json#window.navigationBarTitleText=Peak Now",
+      "policyState": "unregistered",
+      "versionFeature": "unresolved"
+    },
+    {
+      "apiBinding": "PROJECT-SYMBOL:app.json#permissions:GEOLOCATION",
+      "declarationBinding": "UNKNOWN — source policy not registered",
+      "family": "project.unregistered",
+      "gate": "unregistered-4e571be8e228",
+      "locations": [
+        {
+          "column": 1,
+          "line": 1,
+          "path": "app.json"
+        }
+      ],
+      "mechanism": "app.json#permissions:GEOLOCATION",
+      "policyState": "unregistered",
+      "versionFeature": "unresolved"
+    },
+    {
+      "apiBinding": "PROJECT-SYMBOL:setInterval(...)",
+      "declarationBinding": "UNKNOWN — source policy not registered",
+      "family": "project.unregistered",
+      "gate": "unregistered-65a3d5bdf7b7",
+      "locations": [
+        {
+          "column": 28,
+          "line": 101,
+          "path": "pages/index/index.ink"
+        }
+      ],
+      "mechanism": "setInterval(...)",
+      "policyState": "unregistered",
+      "versionFeature": "unresolved"
+    },
+    {
+      "apiBinding": "PROJECT-SYMBOL:media-cleanup-association",
+      "declarationBinding": "UNKNOWN — source policy not registered",
+      "family": "project.unregistered",
+      "gate": "unregistered-6ae4822737d6",
+      "locations": [
+        {
+          "column": 105,
+          "line": 60,
+          "path": "lib/runtime.js"
+        }
+      ],
+      "mechanism": "media-cleanup-association",
+      "policyState": "unregistered",
+      "versionFeature": "unresolved"
+    },
+    {
+      "apiBinding": "PROJECT-SYMBOL:REFERENCE:setInterval",
+      "declarationBinding": "UNKNOWN — source policy not registered",
+      "family": "project.unregistered",
+      "gate": "unregistered-74644c3f4b60",
+      "locations": [
+        {
+          "column": 48,
+          "line": 13,
+          "path": "tests/page.test.js"
+        }
+      ],
+      "mechanism": "REFERENCE:setInterval",
+      "policyState": "unregistered",
+      "versionFeature": "unresolved"
+    },
+    {
+      "apiBinding": "PROJECT-SYMBOL:clearTimeout(...)",
+      "declarationBinding": "UNKNOWN — source policy not registered",
+      "family": "project.unregistered",
+      "gate": "unregistered-7533fa513e0d",
+      "locations": [
+        {
+          "column": 30,
+          "line": 54,
+          "path": "lib/runtime.js"
+        }
+      ],
+      "mechanism": "clearTimeout(...)",
+      "policyState": "unregistered",
+      "versionFeature": "unresolved"
+    },
+    {
+      "apiBinding": "PROJECT-SYMBOL:<input>",
+      "declarationBinding": "UNKNOWN — source policy not registered",
+      "family": "project.unregistered",
+      "gate": "unregistered-7e221bb26654",
+      "locations": [
+        {
+          "column": 282,
+          "line": 373,
+          "path": "pages/index/index.ink"
+        }
+      ],
+      "mechanism": "<input>",
+      "policyState": "unregistered",
+      "versionFeature": "unresolved"
+    },
+    {
+      "apiBinding": "PROJECT-SYMBOL:bindinput=latInput",
+      "declarationBinding": "UNKNOWN — source policy not registered",
+      "family": "project.unregistered",
+      "gate": "unregistered-82e786084344",
+      "locations": [
+        {
+          "column": 259,
+          "line": 373,
+          "path": "pages/index/index.ink"
+        }
+      ],
+      "mechanism": "bindinput=latInput",
+      "policyState": "unregistered",
+      "versionFeature": "unresolved"
+    },
+    {
+      "apiBinding": "PROJECT-SYMBOL:clearInterval(...)",
+      "declarationBinding": "UNKNOWN — source policy not registered",
+      "family": "project.unregistered",
+      "gate": "unregistered-878db78c2541",
+      "locations": [
+        {
+          "column": 29,
+          "line": 93,
+          "path": "pages/index/index.ink"
+        }
+      ],
+      "mechanism": "clearInterval(...)",
+      "policyState": "unregistered",
+      "versionFeature": "unresolved"
+    },
+    {
+      "apiBinding": "PROJECT-SYMBOL:setTimeout(...)",
+      "declarationBinding": "UNKNOWN — source policy not registered",
+      "family": "project.unregistered",
+      "gate": "unregistered-883947ae417e",
+      "locations": [
+        {
+          "column": 20,
+          "line": 82,
+          "path": "lib/runtime.js"
+        }
+      ],
+      "mechanism": "setTimeout(...)",
+      "policyState": "unregistered",
+      "versionFeature": "unresolved"
+    },
+    {
+      "apiBinding": "PROJECT-SYMBOL:CONFIGURATION:package-lock.json",
+      "declarationBinding": "UNKNOWN — source policy not registered",
+      "family": "project.unregistered",
+      "gate": "unregistered-8b1c84887006",
+      "locations": [
+        {
+          "column": 1,
+          "line": 1,
+          "path": "package-lock.json"
+        }
+      ],
+      "mechanism": "CONFIGURATION:package-lock.json",
+      "policyState": "unregistered",
+      "versionFeature": "unresolved"
+    },
+    {
+      "apiBinding": "PROJECT-SYMBOL:clearTimeout(...)",
+      "declarationBinding": "UNKNOWN — source policy not registered",
+      "family": "project.unregistered",
+      "gate": "unregistered-9741bca2c5b8",
+      "locations": [
+        {
+          "column": 49,
+          "line": 79,
+          "path": "lib/runtime.js"
+        }
+      ],
+      "mechanism": "clearTimeout(...)",
+      "policyState": "unregistered",
+      "versionFeature": "unresolved"
+    },
+    {
+      "apiBinding": "PROJECT-SYMBOL:REFERENCE:navigator.geolocation",
+      "declarationBinding": "UNKNOWN — source policy not registered",
+      "family": "project.unregistered",
+      "gate": "unregistered-a722cc2dd670",
+      "locations": [
+        {
+          "column": 71,
+          "line": 54,
+          "path": "pages/index/index.ink"
+        }
+      ],
+      "mechanism": "REFERENCE:navigator.geolocation",
+      "policyState": "unregistered",
+      "versionFeature": "unresolved"
+    },
+    {
+      "apiBinding": "PROJECT-SYMBOL:setInterval(...)",
+      "declarationBinding": "UNKNOWN — source policy not registered",
+      "family": "project.unregistered",
+      "gate": "unregistered-b43672001bca",
+      "locations": [
+        {
+          "column": 18,
+          "line": 83,
+          "path": "pages/index/index.ink"
+        }
+      ],
+      "mechanism": "setInterval(...)",
+      "policyState": "unregistered",
+      "versionFeature": "unresolved"
+    },
+    {
+      "apiBinding": "PROJECT-SYMBOL:REFERENCE:setTimeout",
+      "declarationBinding": "UNKNOWN — source policy not registered",
+      "family": "project.unregistered",
+      "gate": "unregistered-b82dacb394d4",
+      "locations": [
+        {
+          "column": 34,
+          "line": 13,
+          "path": "tests/page.test.js"
+        }
+      ],
+      "mechanism": "REFERENCE:setTimeout",
+      "policyState": "unregistered",
+      "versionFeature": "unresolved"
+    },
+    {
+      "apiBinding": "PROJECT-SYMBOL:REFERENCE:clearInterval",
+      "declarationBinding": "UNKNOWN — source policy not registered",
+      "family": "project.unregistered",
+      "gate": "unregistered-bc7cb1dcb279",
+      "locations": [
+        {
+          "column": 30,
+          "line": 29,
+          "path": "tests/page.test.js"
+        }
+      ],
+      "mechanism": "REFERENCE:clearInterval",
+      "policyState": "unregistered",
+      "versionFeature": "unresolved"
+    },
+    {
+      "apiBinding": "PROJECT-SYMBOL:setTimeout(...)",
+      "declarationBinding": "UNKNOWN — source policy not registered",
+      "family": "project.unregistered",
+      "gate": "unregistered-bdc37a6f4ccc",
+      "locations": [
+        {
+          "column": 20,
+          "line": 25,
+          "path": "lib/runtime.js"
+        }
+      ],
+      "mechanism": "setTimeout(...)",
+      "policyState": "unregistered",
+      "versionFeature": "unresolved"
+    },
+    {
+      "apiBinding": "PROJECT-BINDING:UNRESOLVED",
+      "declarationBinding": "UNKNOWN — source policy not registered",
+      "family": "project.unregistered",
+      "gate": "unregistered-c4cf1e83d31d",
+      "locations": [
+        {
+          "column": 1,
+          "line": 3,
+          "path": "aiui-audit-claims.json"
+        }
+      ],
+      "mechanism": "CLAIM:device.compass@Page:Use optional host Accelerometer and Magnetometer factories for approximate compass heading; expire readings and fall back to GPS or manual direction.",
+      "policyState": "unregistered",
+      "versionFeature": "unresolved"
+    },
+    {
+      "apiBinding": "PROJECT-SYMBOL:<input>",
+      "declarationBinding": "UNKNOWN — source policy not registered",
+      "family": "project.unregistered",
+      "gate": "unregistered-e2f2ab7e3098",
+      "locations": [
+        {
+          "column": 189,
+          "line": 373,
+          "path": "pages/index/index.ink"
+        }
+      ],
+      "mechanism": "<input>",
+      "policyState": "unregistered",
+      "versionFeature": "unresolved"
+    },
+    {
+      "apiBinding": "PROJECT-SYMBOL:clearTimeout(...)",
+      "declarationBinding": "UNKNOWN — source policy not registered",
+      "family": "project.unregistered",
+      "gate": "unregistered-e463761c345f",
+      "locations": [
+        {
+          "column": 50,
+          "line": 21,
+          "path": "lib/runtime.js"
+        }
+      ],
+      "mechanism": "clearTimeout(...)",
+      "policyState": "unregistered",
+      "versionFeature": "unresolved"
+    },
+    {
+      "apiBinding": "PROJECT-SYMBOL:<image>",
+      "declarationBinding": "UNKNOWN — source policy not registered",
+      "family": "project.unregistered",
+      "gate": "unregistered-e6ae1f5b9bdf",
+      "locations": [
+        {
+          "column": 29,
+          "line": 327,
+          "path": "pages/index/index.ink"
+        }
+      ],
+      "mechanism": "<image>",
+      "policyState": "unregistered",
+      "versionFeature": "unresolved"
+    },
+    {
+      "apiBinding": "PROJECT-SYMBOL:clearTimeout(...)",
+      "declarationBinding": "UNKNOWN — source policy not registered",
+      "family": "project.unregistered",
+      "gate": "unregistered-e6eb1b0eddfb",
+      "locations": [
+        {
+          "column": 30,
+          "line": 9,
+          "path": "lib/runtime.js"
+        }
+      ],
+      "mechanism": "clearTimeout(...)",
+      "policyState": "unregistered",
+      "versionFeature": "unresolved"
+    },
+    {
+      "apiBinding": "PROJECT-BINDING:UNRESOLVED",
+      "declarationBinding": "UNKNOWN — source policy not registered",
+      "family": "project.unregistered",
+      "gate": "unregistered-eb1246dc1e05",
+      "locations": [
+        {
+          "column": 1,
+          "line": 4,
+          "path": "aiui-audit-claims.json"
+        }
+      ],
+      "mechanism": "CLAIM:storage.local-cache@Page:Persist selected language, settings and up to three downloaded mountain areas through injected wx local-storage methods; surface denied storage and corrupt cache.",
+      "policyState": "unregistered",
+      "versionFeature": "unresolved"
+    },
+    {
+      "apiBinding": "PROJECT-SYMBOL:CONFIGURATION:package.json",
+      "declarationBinding": "UNKNOWN — source policy not registered",
+      "family": "project.unregistered",
+      "gate": "unregistered-f1246c8076ec",
+      "locations": [
+        {
+          "column": 1,
+          "line": 1,
+          "path": "package.json"
+        }
+      ],
+      "mechanism": "CONFIGURATION:package.json",
+      "policyState": "unregistered",
+      "versionFeature": "unresolved"
+    },
+    {
+      "apiBinding": "<button ...>",
+      "declarationBinding": "NONE REQUIRED",
+      "family": "ui.button",
+      "gate": "ui-button-0157e118bd32",
+      "locations": [
+        {
+          "column": 9,
+          "line": 379,
+          "path": "pages/index/index.ink"
+        }
+      ],
+      "mechanism": "<button>",
+      "policyState": "registered",
+      "versionFeature": "stable-0.17"
+    },
+    {
+      "apiBinding": "<button ...>",
+      "declarationBinding": "NONE REQUIRED",
+      "family": "ui.button",
+      "gate": "ui-button-09bcd63e4b0d",
+      "locations": [
+        {
+          "column": 9,
+          "line": 329,
+          "path": "pages/index/index.ink"
+        }
+      ],
+      "mechanism": "<button>",
+      "policyState": "registered",
+      "versionFeature": "stable-0.17"
+    },
+    {
+      "apiBinding": "<button ...>",
+      "declarationBinding": "NONE REQUIRED",
+      "family": "ui.button",
+      "gate": "ui-button-0a32ca138dec",
+      "locations": [
+        {
+          "column": 104,
+          "line": 336,
+          "path": "pages/index/index.ink"
+        }
+      ],
+      "mechanism": "<button>",
+      "policyState": "registered",
+      "versionFeature": "stable-0.17"
+    },
+    {
+      "apiBinding": "<button ...>",
+      "declarationBinding": "NONE REQUIRED",
+      "family": "ui.button",
+      "gate": "ui-button-193769f122d1",
+      "locations": [
+        {
+          "column": 9,
+          "line": 338,
+          "path": "pages/index/index.ink"
+        }
+      ],
+      "mechanism": "<button>",
+      "policyState": "registered",
+      "versionFeature": "stable-0.17"
+    },
+    {
+      "apiBinding": "<button ...>",
+      "declarationBinding": "NONE REQUIRED",
+      "family": "ui.button",
+      "gate": "ui-button-28a3dc058118",
+      "locations": [
+        {
+          "column": 367,
+          "line": 363,
+          "path": "pages/index/index.ink"
+        }
+      ],
+      "mechanism": "<button>",
+      "policyState": "registered",
+      "versionFeature": "stable-0.17"
+    },
+    {
+      "apiBinding": "<button ...>",
+      "declarationBinding": "NONE REQUIRED",
+      "family": "ui.button",
+      "gate": "ui-button-2f5266f26279",
+      "locations": [
+        {
+          "column": 9,
+          "line": 380,
+          "path": "pages/index/index.ink"
+        }
+      ],
+      "mechanism": "<button>",
+      "policyState": "registered",
+      "versionFeature": "stable-0.17"
+    },
+    {
+      "apiBinding": "<button ...>",
+      "declarationBinding": "NONE REQUIRED",
+      "family": "ui.button",
+      "gate": "ui-button-4a7d206595d6",
+      "locations": [
+        {
+          "column": 9,
+          "line": 381,
+          "path": "pages/index/index.ink"
+        }
+      ],
+      "mechanism": "<button>",
+      "policyState": "registered",
+      "versionFeature": "stable-0.17"
+    },
+    {
+      "apiBinding": "<button ...>",
+      "declarationBinding": "NONE REQUIRED",
+      "family": "ui.button",
+      "gate": "ui-button-544410dbbd7d",
+      "locations": [
+        {
+          "column": 74,
+          "line": 325,
+          "path": "pages/index/index.ink"
+        }
+      ],
+      "mechanism": "<button>",
+      "policyState": "registered",
+      "versionFeature": "stable-0.17"
+    },
+    {
+      "apiBinding": "<button ...>",
+      "declarationBinding": "NONE REQUIRED",
+      "family": "ui.button",
+      "gate": "ui-button-812f159f627a",
+      "locations": [
+        {
+          "column": 9,
+          "line": 378,
+          "path": "pages/index/index.ink"
+        }
+      ],
+      "mechanism": "<button>",
+      "policyState": "registered",
+      "versionFeature": "stable-0.17"
+    },
+    {
+      "apiBinding": "<button ...>",
+      "declarationBinding": "NONE REQUIRED",
+      "family": "ui.button",
+      "gate": "ui-button-8232248ae804",
+      "locations": [
+        {
+          "column": 36,
+          "line": 363,
+          "path": "pages/index/index.ink"
+        }
+      ],
+      "mechanism": "<button>",
+      "policyState": "registered",
+      "versionFeature": "stable-0.17"
+    },
+    {
+      "apiBinding": "<button ...>",
+      "declarationBinding": "NONE REQUIRED",
+      "family": "ui.button",
+      "gate": "ui-button-8720ae6bf5dc",
+      "locations": [
+        {
+          "column": 9,
+          "line": 340,
+          "path": "pages/index/index.ink"
+        }
+      ],
+      "mechanism": "<button>",
+      "policyState": "registered",
+      "versionFeature": "stable-0.17"
+    },
+    {
+      "apiBinding": "<button ...>",
+      "declarationBinding": "NONE REQUIRED",
+      "family": "ui.button",
+      "gate": "ui-button-8fee65951420",
+      "locations": [
+        {
+          "column": 9,
+          "line": 358,
+          "path": "pages/index/index.ink"
+        }
+      ],
+      "mechanism": "<button>",
+      "policyState": "registered",
+      "versionFeature": "stable-0.17"
+    },
+    {
+      "apiBinding": "<button ...>",
+      "declarationBinding": "NONE REQUIRED",
+      "family": "ui.button",
+      "gate": "ui-button-95e2d9f67873",
+      "locations": [
+        {
+          "column": 9,
+          "line": 377,
+          "path": "pages/index/index.ink"
+        }
+      ],
+      "mechanism": "<button>",
+      "policyState": "registered",
+      "versionFeature": "stable-0.17"
+    },
+    {
+      "apiBinding": "<button ...>",
+      "declarationBinding": "NONE REQUIRED",
+      "family": "ui.button",
+      "gate": "ui-button-a3701b850f45",
+      "locations": [
+        {
+          "column": 9,
+          "line": 382,
+          "path": "pages/index/index.ink"
+        }
+      ],
+      "mechanism": "<button>",
+      "policyState": "registered",
+      "versionFeature": "stable-0.17"
+    },
+    {
+      "apiBinding": "<button ...>",
+      "declarationBinding": "NONE REQUIRED",
+      "family": "ui.button",
+      "gate": "ui-button-d2864b56177a",
+      "locations": [
+        {
+          "column": 9,
+          "line": 355,
+          "path": "pages/index/index.ink"
+        }
+      ],
+      "mechanism": "<button>",
+      "policyState": "registered",
+      "versionFeature": "stable-0.17"
+    },
+    {
+      "apiBinding": "<button ...>",
+      "declarationBinding": "NONE REQUIRED",
+      "family": "ui.button",
+      "gate": "ui-button-d3e8d8a24521",
+      "locations": [
+        {
+          "column": 230,
+          "line": 363,
+          "path": "pages/index/index.ink"
+        }
+      ],
+      "mechanism": "<button>",
+      "policyState": "registered",
+      "versionFeature": "stable-0.17"
+    },
+    {
+      "apiBinding": "<button ...>",
+      "declarationBinding": "NONE REQUIRED",
+      "family": "ui.button",
+      "gate": "ui-button-d510f3dbafdf",
+      "locations": [
+        {
+          "column": 9,
+          "line": 352,
+          "path": "pages/index/index.ink"
+        }
+      ],
+      "mechanism": "<button>",
+      "policyState": "registered",
+      "versionFeature": "stable-0.17"
+    },
+    {
+      "apiBinding": "<button ...>",
+      "declarationBinding": "NONE REQUIRED",
+      "family": "ui.button",
+      "gate": "ui-button-d80178501bde",
+      "locations": [
+        {
+          "column": 9,
+          "line": 339,
+          "path": "pages/index/index.ink"
+        }
+      ],
+      "mechanism": "<button>",
+      "policyState": "registered",
+      "versionFeature": "stable-0.17"
+    }
+  ],
+  "policyVersion": "aiui-0.17-policy-v1",
+  "projectRevision": "WORKTREE:8fa4d0fd11065e8c70d151c0f14da8a4122f67c931c1b7152a69f9c96fab6420",
+  "schemaVersion": 2,
+  "supportedSurfaces": [
+    "Page",
+    "_blank",
+    "_current"
+  ],
+  "targetVersion": "0.17.0",
+  "unmatchedSymbols": [
+    {
+      "column": 27,
+      "family": "project.unregistered",
+      "gate": "unregistered-00b1cc8c5748",
+      "line": 94,
+      "path": "pages/index/index.ink",
+      "symbol": "media-cleanup-association"
+    },
+    {
+      "column": 352,
+      "family": "project.unregistered",
+      "gate": "unregistered-1f300abd9f77",
+      "line": 373,
+      "path": "pages/index/index.ink",
+      "symbol": "bindinput=lonInput"
+    },
+    {
+      "column": 3,
+      "family": "project.unregistered",
+      "gate": "unregistered-1fb41a1dd5b3",
+      "line": 48,
+      "path": "tests/runtime.test.js",
+      "symbol": "media-cleanup-association"
+    },
+    {
+      "column": 39,
+      "family": "project.unregistered",
+      "gate": "unregistered-280500787fc4",
+      "line": 111,
+      "path": "pages/index/index.ink",
+      "symbol": "clearInterval"
+    },
+    {
+      "column": 43,
+      "family": "project.unregistered",
+      "gate": "unregistered-3af6c9fd36d2",
+      "line": 54,
+      "path": "pages/index/index.ink",
+      "symbol": "REFERENCE:navigator"
+    },
+    {
+      "column": 1,
+      "family": "project.unregistered",
+      "gate": "unregistered-42dd8e8df091",
+      "line": 2,
+      "path": "aiui-audit-claims.json",
+      "symbol": "CLAIM:device.geolocation@Page:Read companion-host GPS coordinates and moving course through an injected watchPosition adapter; clear watches and ignore stale or revoked delivery."
+    },
+    {
+      "column": 34,
+      "family": "project.unregistered",
+      "gate": "unregistered-494d80b9bf39",
+      "line": 71,
+      "path": "lib/runtime.js",
+      "symbol": "clearTimeout"
+    },
+    {
+      "column": 1,
+      "family": "project.unregistered",
+      "gate": "unregistered-4c42a412d43c",
+      "line": 1,
+      "path": "app.json",
+      "symbol": "app.json#window.navigationBarTitleText=Peak Now"
+    },
+    {
+      "column": 1,
+      "family": "project.unregistered",
+      "gate": "unregistered-4e571be8e228",
+      "line": 1,
+      "path": "app.json",
+      "symbol": "app.json#permissions:GEOLOCATION"
+    },
+    {
+      "column": 28,
+      "family": "project.unregistered",
+      "gate": "unregistered-65a3d5bdf7b7",
+      "line": 101,
+      "path": "pages/index/index.ink",
+      "symbol": "setInterval"
+    },
+    {
+      "column": 105,
+      "family": "project.unregistered",
+      "gate": "unregistered-6ae4822737d6",
+      "line": 60,
+      "path": "lib/runtime.js",
+      "symbol": "media-cleanup-association"
+    },
+    {
+      "column": 48,
+      "family": "project.unregistered",
+      "gate": "unregistered-74644c3f4b60",
+      "line": 13,
+      "path": "tests/page.test.js",
+      "symbol": "REFERENCE:setInterval"
+    },
+    {
+      "column": 30,
+      "family": "project.unregistered",
+      "gate": "unregistered-7533fa513e0d",
+      "line": 54,
+      "path": "lib/runtime.js",
+      "symbol": "clearTimeout"
+    },
+    {
+      "column": 282,
+      "family": "project.unregistered",
+      "gate": "unregistered-7e221bb26654",
+      "line": 373,
+      "path": "pages/index/index.ink",
+      "symbol": "<input>"
+    },
+    {
+      "column": 259,
+      "family": "project.unregistered",
+      "gate": "unregistered-82e786084344",
+      "line": 373,
+      "path": "pages/index/index.ink",
+      "symbol": "bindinput=latInput"
+    },
+    {
+      "column": 29,
+      "family": "project.unregistered",
+      "gate": "unregistered-878db78c2541",
+      "line": 93,
+      "path": "pages/index/index.ink",
+      "symbol": "clearInterval"
+    },
+    {
+      "column": 20,
+      "family": "project.unregistered",
+      "gate": "unregistered-883947ae417e",
+      "line": 82,
+      "path": "lib/runtime.js",
+      "symbol": "setTimeout"
+    },
+    {
+      "column": 1,
+      "family": "project.unregistered",
+      "gate": "unregistered-8b1c84887006",
+      "line": 1,
+      "path": "package-lock.json",
+      "symbol": "CONFIGURATION:package-lock.json"
+    },
+    {
+      "column": 49,
+      "family": "project.unregistered",
+      "gate": "unregistered-9741bca2c5b8",
+      "line": 79,
+      "path": "lib/runtime.js",
+      "symbol": "clearTimeout"
+    },
+    {
+      "column": 71,
+      "family": "project.unregistered",
+      "gate": "unregistered-a722cc2dd670",
+      "line": 54,
+      "path": "pages/index/index.ink",
+      "symbol": "REFERENCE:navigator.geolocation"
+    },
+    {
+      "column": 18,
+      "family": "project.unregistered",
+      "gate": "unregistered-b43672001bca",
+      "line": 83,
+      "path": "pages/index/index.ink",
+      "symbol": "setInterval"
+    },
+    {
+      "column": 34,
+      "family": "project.unregistered",
+      "gate": "unregistered-b82dacb394d4",
+      "line": 13,
+      "path": "tests/page.test.js",
+      "symbol": "REFERENCE:setTimeout"
+    },
+    {
+      "column": 30,
+      "family": "project.unregistered",
+      "gate": "unregistered-bc7cb1dcb279",
+      "line": 29,
+      "path": "tests/page.test.js",
+      "symbol": "REFERENCE:clearInterval"
+    },
+    {
+      "column": 20,
+      "family": "project.unregistered",
+      "gate": "unregistered-bdc37a6f4ccc",
+      "line": 25,
+      "path": "lib/runtime.js",
+      "symbol": "setTimeout"
+    },
+    {
+      "column": 1,
+      "family": "project.unregistered",
+      "gate": "unregistered-c4cf1e83d31d",
+      "line": 3,
+      "path": "aiui-audit-claims.json",
+      "symbol": "CLAIM:device.compass@Page:Use optional host Accelerometer and Magnetometer factories for approximate compass heading; expire readings and fall back to GPS or manual direction."
+    },
+    {
+      "column": 189,
+      "family": "project.unregistered",
+      "gate": "unregistered-e2f2ab7e3098",
+      "line": 373,
+      "path": "pages/index/index.ink",
+      "symbol": "<input>"
+    },
+    {
+      "column": 50,
+      "family": "project.unregistered",
+      "gate": "unregistered-e463761c345f",
+      "line": 21,
+      "path": "lib/runtime.js",
+      "symbol": "clearTimeout"
+    },
+    {
+      "column": 29,
+      "family": "project.unregistered",
+      "gate": "unregistered-e6ae1f5b9bdf",
+      "line": 327,
+      "path": "pages/index/index.ink",
+      "symbol": "<image>"
+    },
+    {
+      "column": 30,
+      "family": "project.unregistered",
+      "gate": "unregistered-e6eb1b0eddfb",
+      "line": 9,
+      "path": "lib/runtime.js",
+      "symbol": "clearTimeout"
+    },
+    {
+      "column": 1,
+      "family": "project.unregistered",
+      "gate": "unregistered-eb1246dc1e05",
+      "line": 4,
+      "path": "aiui-audit-claims.json",
+      "symbol": "CLAIM:storage.local-cache@Page:Persist selected language, settings and up to three downloaded mountain areas through injected wx local-storage methods; surface denied storage and corrupt cache."
+    },
+    {
+      "column": 1,
+      "family": "project.unregistered",
+      "gate": "unregistered-f1246c8076ec",
+      "line": 1,
+      "path": "package.json",
+      "symbol": "CONFIGURATION:package.json"
+    }
+  ],
+  "versionViolations": []
+}

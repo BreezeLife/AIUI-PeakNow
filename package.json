@@ -1,0 +1,13 @@
+{
+  "name": "aiui-peaknow",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "test": "node --test tests/*.test.js",
+    "preview": "node scripts/preview.mjs",
+    "pack": "node scripts/pack.mjs",
+    "audit": "bash scripts/validate.sh"
+  }
+}

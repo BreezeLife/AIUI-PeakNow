@@ -1,0 +1,15 @@
+.git/
+.github/
+.aiui-evidence/
+node_modules/
+tests/
+scripts/
+docs/
+*.aix
+.DS_Store
+README.md
+package.json
+package-lock.json
+aiui-audit-claims.json
+.gitignore
+.aixignore

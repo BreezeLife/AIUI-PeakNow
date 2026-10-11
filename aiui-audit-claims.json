@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "scopeClosed": true,
+  "claims": [
+    { "family": "network.https", "surface": "Page", "description": "Query two Overpass HTTPS endpoints using the injected wx request adapter, with bounded attempts, timeout, cancellation, cached fallback and explicit recovery." },
+    { "family": "device.geolocation", "surface": "Page", "description": "Read companion-host GPS coordinates and moving course through an injected watchPosition adapter; clear watches and ignore stale or revoked delivery." },
+    { "family": "device.compass", "surface": "Page", "description": "Use optional host Accelerometer and Magnetometer factories for approximate compass heading; expire readings and fall back to GPS or manual direction." },
+    { "family": "storage.local-cache", "surface": "Page", "description": "Persist selected language, settings and up to three downloaded mountain areas through injected wx local-storage methods; surface denied storage and corrupt cache." }
+  ]
+}

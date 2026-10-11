@@ -1,0 +1,9 @@
+.DS_Store
+node_modules/
+*.aix
+.aiui-evidence/*
+!.aiui-evidence/AIUI-AUDIT.md
+!.aiui-evidence/inventory.json
+!.aiui-evidence/fingerprint.txt
+!.aiui-evidence/project-validation.json
+!.aiui-evidence/audit-validation.log
